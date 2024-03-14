@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Addin_1 - Command 1</Text>
+    <Description>Some description for Addin_1</Description>
+    <Assembly>Addin_1.dll</Assembly>
+    <FullClassName>Addin_1.Command1</FullClassName>
+    <ClientId>409d8624-775c-4d67-85c1-86d4d1570bea</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Addin_1</Name>
+    <Assembly>Addin_1.dll</Assembly>
+    <FullClassName>Addin_1.App</FullClassName>
+    <ClientId>04d4f97c-26f2-43ed-8827-e4b84560225f</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>

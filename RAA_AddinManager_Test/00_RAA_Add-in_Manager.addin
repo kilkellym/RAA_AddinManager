@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RAA_AddinManager_Test</Name>
+    <Assembly>RAA_AddinManager_Test.dll</Assembly>
+    <FullClassName>RAA_AddinManager_Test.App</FullClassName>
+    <ClientId>a70a9b58-464d-4501-97f7-3a303cbb8bff</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
